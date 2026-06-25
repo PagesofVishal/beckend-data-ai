@@ -3,13 +3,8 @@
   "about_service": "Deepdown is a premium Android development service dedicated to engineering high-performance, native mobile experiences that dive far beneath the surface of generic app design. Utilizing a future-proof technical stack anchored by Kotlin and Jetpack Compose, we architect custom applications designed for seamless scalability, robust data security, and flawless performance across the entire Android ecosystem—including smartphones, foldables, and tablets. We manage the entire product lifecycle from initial conceptualization and clean MVVM/MVI architecture design to complex API integration, rigorous memory profiling, and Google Play Store deployment. By prioritizing clean code, striking material user interfaces, and offline-first reliability, Deepdown transforms complex business requirements into intuitive, engaging, and highly rated mobile products that drive real user retention and growth.",
   "deepdown_apps": "Android Knows",
   "developement_apps": "Notes",
-  "android_knows": "Knows More is a powerful device information application that helps you explore and understand your Android smartphone in detail.
-Get comprehensive information about your device's hardware, software, display, processor, memory, sensors, battery, network, and operating system in a clean and easy-to-use interface.
-Features - Dark Mode, Detailed device specifications, Processor and CPU information, RAM and storage details, Display resolution and screen information, Android version and system details, Battery status and health information, Network and connectivity information, Sensor detection and availability, Camera information, Real-time device statistics, Simple and user-friendly design
-Whether you're a tech enthusiast, developer, or everyday user, Knows More provides the information you need to better understand your Android device.",
- "android_knows_version": "16.3.5 with m3 ui"
- "ai_name": "Deepdown Ai",
- "ai_version": "Ai-17",
-  
+  "android_knows": "Knows More is a powerful device information application that helps you explore and understand your Android smartphone in detail.\nGet comprehensive information about your device's hardware, software, display, processor, memory, sensors, battery, network, and operating system in a clean and easy-to-use interface.\nFeatures\n• Dark Mode\n• Detailed device specifications\n• Processor and CPU information\n• RAM and storage details\n• Display resolution and screen information\n• Android version and system details\n• Battery status and health information\n• Network and connectivity information\n• Sensor detection and availability\n• Camera information\n• Real-time device statistics\n• Simple and user-friendly design\nWhether you're a tech enthusiast, developer, or everyday user, Knows More provides the information you need to better understand your Android device.",
+  "android_knows_version": "16.3.5 with m3 ui",
+  "ai_name": "Deepdown Ai",
+  "ai_version": "Ai-17"
 }
-
