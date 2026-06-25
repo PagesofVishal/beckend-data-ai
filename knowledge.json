@@ -1,6 +1,8 @@
 {
-  "app_name": "MyApp",
-  "refund_policy": "Refunds are available within 7 days.",
-  "reset_password": "Go to Settings > Account > Reset Password.",
-  "billing": "Billing is managed from the Dashboard."
+  "service_name": "Deepdown",
+  "about_service": "Deepdown is a premium Android development service dedicated to engineering high-performance, native mobile experiences that dive far beneath the surface of generic app design. Utilizing a future-proof technical stack anchored by Kotlin and Jetpack Compose, we architect custom applications designed for seamless scalability, robust data security, and flawless performance across the entire Android ecosystem—including smartphones, foldables, and tablets. We manage the entire product lifecycle from initial conceptualization and clean MVVM/MVI architecture design to complex API integration, rigorous memory profiling, and Google Play Store deployment. By prioritizing clean code, striking material user interfaces, and offline-first reliability, Deepdown transforms complex business requirements into intuitive, engaging, and highly rated mobile products that drive real user retention and growth.",
+  "deepdown_apps": "Android Knows",
+  "developement_apps": "Notes",
+  "android_knows": "Notes"
+  
 }
